@@ -1,6 +1,6 @@
 #  Before you Judge, There is also exception to the rule
 
-Hi! I'm Meet Patel , A JavaScript Devloper working as full day old boring 9-5 wala JOB. Recentlty I was researching into how different companies works corporately and pay to JOBs holders and it just really sucks for employees. So, I just wann a open eyes to all new comers developers and existing one to think about this !
+Hi! I'm Meet Patel , A JavaScript Devloper working as full day old boring 9-5 wala JOB. Recentlty I was researching into how different companies works corporately and pay to JOBs holders and it just really sucks for employees. So, I just wann a open eyes to all new comer developers and existing one to think about this !
 
 ***"Leave A Star to Open More Eyes"***
 ![star](https://img.freepik.com/free-vector/start_53876-25533.jpg?size=100&ext=jpg)
